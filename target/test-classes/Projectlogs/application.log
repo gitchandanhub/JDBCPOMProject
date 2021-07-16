@@ -1,0 +1,40 @@
+21/12/2020 02:46:18 devpinoyLogger Username Entered [[ChromeDriver: chrome on WINDOWS (ac03d97682cb001edf2c3bbf4f8dfb23)] -> name: email]
+21/12/2020 02:46:23 devpinoyLogger Password Entered Welcome@2020
+21/12/2020 02:46:26 devpinoyLogger Login button clicked
+21/12/2020 02:46:31 devpinoyLogger Asset Tab is opened with all assets list
+21/12/2020 02:46:33 devpinoyLogger Latest Asset is opened from the Asset list
+21/12/2020 02:46:35 devpinoyLogger Custom Value is added is Customer Custom form/Field 1
+21/12/2020 02:46:38 devpinoyLogger Custom Value is added is Customer Custom form/Field 2
+21/12/2020 02:46:40 devpinoyLogger Custom Value is added is Customer Custom form/Field 3
+21/12/2020 02:46:42 devpinoyLogger Owner Name is added in Registered owner info
+21/12/2020 02:46:44 devpinoyLogger Owner Email is added in Registered owner info
+21/12/2020 02:46:47 devpinoyLogger Owner Address1 is added in Registered owner info
+21/12/2020 02:46:49 devpinoyLogger Owner Address2 is added in Registered owner info
+21/12/2020 02:46:51 devpinoyLogger Owner City is added in Registered owner info
+21/12/2020 02:46:53 devpinoyLogger Owner State option is opened in Registered owner info
+21/12/2020 02:46:55 devpinoyLogger Owner zip is added in Registered owner info
+21/12/2020 02:46:58 devpinoyLogger Asset Vehicle data is saved
+21/12/2020 02:47:01 devpinoyLogger Asset Registration tab is opened
+21/12/2020 02:47:03 devpinoyLogger Title Number is added in Asset registration form
+21/12/2020 02:47:05 devpinoyLogger Title State options opened
+21/12/2020 02:47:07 devpinoyLogger Title State is select as WY
+21/12/2020 02:47:10 devpinoyLogger Paper/Elec is added in Registration  form
+21/12/2020 02:47:12 devpinoyLogger Assets Registration  form is saved
+21/12/2020 02:47:15 devpinoyLogger Clicked on Show List button and All asset list is opened
+21/12/2020 02:47:16 devpinoyLogger Quotation Tab clicked
+21/12/2020 02:47:17 devpinoyLogger Quotation Selection options opened
+21/12/2020 02:47:18 devpinoyLogger Single Quote Option Selected
+21/12/2020 02:47:20 devpinoyLogger Create Single Quote form is opened
+21/12/2020 02:47:21 devpinoyLogger Salesperson option opened
+21/12/2020 02:47:22 devpinoyLogger Salesperson Admin is Selected from options
+21/12/2020 02:47:23 devpinoyLogger Customer Number Is Entered
+21/12/2020 02:47:27 devpinoyLogger Customer Name is enteredYogiAutomationTest_Y
+21/12/2020 02:47:31 devpinoyLogger Quotation Tab clicked for refresh
+21/12/2020 02:47:48 devpinoyLogger Clicked on Lease Tab and all lease List are loaded
+21/12/2020 02:47:51 devpinoyLogger Latest converted Lease is opened with data sheet opened with unit no=1237-00-0007
+21/12/2020 02:47:54 devpinoyLogger Lease Accounting sheet is opened
+21/12/2020 02:47:57 devpinoyLogger Lease Bank sheet is opened
+21/12/2020 02:47:59 devpinoyLogger Moves Hover over Bule Hills Bank and selected from bank list
+21/12/2020 02:48:02 devpinoyLogger Bank Sheet is save with Bule Hills bank option
+21/12/2020 02:48:05 devpinoyLogger Lease schedule A tab is opened
+21/12/2020 02:48:08 devpinoyLogger Schedule A upload doc button clicked
